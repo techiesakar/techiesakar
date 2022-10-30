@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **React, NextJs**
 
-- 👨‍💻 All of my projects are available at [github.com/techiesakar](github.com/techiesakar)
+- 👨‍💻 All of my projects are available at [github.com/techiesakar](https://github.com/techiesakar)
 
-- 📝 I regularly write articles on [techiesakar.com/blog](techiesakar.com/blog)
+- 📝 I regularly write articles on [techiesakar.com/blog](https://techiesakar.com/blog)
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
 - 📫 How to reach me **techiesakar@gmail.com**
 
-- 📄 Know about my experiences [techiesakar.com/about](techiesakar.com/about)
+- 📄 Know about my experiences [techiesakar.com/about](https://techiesakar.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
