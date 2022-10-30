@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakar Aryal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on [My Personal Blog](techiesakar.com/portfolio)
+- 🔭 I’m currently working on [Tailwind](github.com/techiesakar.com/tailwind)
 
 - 🌱 I’m currently learning **React, NextJs**
 
