@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sakar Aryal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on [NextBlog](https://github.com/techiesakar/NextBlog)
+- 🔭 I’m currently working on [TailCentral](https://tailcentral.com)
 
 - 🌱 I’m currently learning **React, NextJs**
 
 - 👨‍💻 All of my projects are available at [github.com/techiesakar](https://github.com/techiesakar)
-
-- 📝 I regularly write articles on [techiesakar.com/blog](https://techiesakar.com/blog)
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
