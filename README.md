@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/techiesakar](https://github.com/techiesakar)
 
-- 💬 Ask me about **HTML, CSS, JS, React**
+- 💬 Ask me about **ReactJs, NextJs, NestJs, ExpressJs, TypeScript**
 
 - 📫 How to reach me **techiesakar@gmail.com**
 
