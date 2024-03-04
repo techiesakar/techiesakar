@@ -2,9 +2,8 @@
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
 - 🔭 I’m currently working on [Google Classroom Clone (Frontend)]([https://tailcentral.com](https://github.com/techiesakar/classroom-frontend))
-- 
 - 🔭 I’m currently working on [Google Classroom Clone (Backend)]([https://tailcentral.com](https://github.com/techiesakar/classroom-backend))
-- 
+
 - 👨‍💻 All of my projects are available at [github.com/techiesakar](https://github.com/techiesakar)
 
 - 💬 Ask me about **ReactJs, NextJs, NestJs, ExpressJs, TypeScript**
